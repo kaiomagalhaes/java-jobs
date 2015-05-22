@@ -1,15 +1,18 @@
-# Ruby Jobs [![Code Climate](https://codeclimate.com/github/ruby-jobs/ruby-jobs/badges/gpa.svg)](https://codeclimate.com/github/ruby-jobs/ruby-jobs) [![Build Status](https://travis-ci.org/ruby-jobs/ruby-jobs.svg?branch=master)](https://travis-ci.org/ruby-jobs/ruby-jobs) [![Test Coverage](https://codeclimate.com/github/ruby-jobs/ruby-jobs/badges/coverage.svg)](https://codeclimate.com/github/ruby-jobs/ruby-jobs)
+# Ruby Jobs [![Code Climate](https://codeclimate.com/github/kaiomagalhaes/java-jobs/badges/gpa.svg)](https://codeclimate.com/github/kaiomagalhaes/java-jobs) [![Build  [![Build Status](https://semaphoreci.com/api/v1/projects/71b7b15d-18bc-44d1-b97e-b663d1bdfad8/432469/badge.svg)](https://semaphoreci.com/kaiomagalhaes/ruby-jobs)
 
-Repositório do Ruby Jobs [www.rubyjobs.me](http://www.rubyjobs.me/).
+Repositório do Java Jobs [www.javajobs.me](http://www.javajobs.me/).
 
-O projeto foi criado com o intuito de mostrar ofertas de emprego para desenvolvedores Ruby.
+O projeto original foi criado com o intuito de mostrar ofertas de emprego para desenvolvedores Ruby.
+Vendo as dificuldades para encontrar desenvolvedores Java fiz o fork do projeto [ruby-jobs](https://github.com/ruby-jobs/ruby-jobs) e realizei as modificações necessárias.
+
+Projeto sem fins lucrativos.
 
 ## Instalação
 
 Clone o repositório
 
 ```
-git clone https://github.com/ruby-jobs/ruby-jobs.git
+git clone https://github.com/kaiomagalhaes/java-jobs.git
 ```
 
 Instale as dependências
