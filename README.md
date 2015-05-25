@@ -1,4 +1,4 @@
-# Ruby Jobs [![Code Climate](https://codeclimate.com/github/kaiomagalhaes/java-jobs/badges/gpa.svg)](https://codeclimate.com/github/kaiomagalhaes/java-jobs) [![Build Status](https://semaphoreci.com/api/v1/projects/71b7b15d-18bc-44d1-b97e-b663d1bdfad8/432469/badge.svg)](https://semaphoreci.com/kaiomagalhaes/ruby-jobs)
+# Java Jobs [![Code Climate](https://codeclimate.com/github/kaiomagalhaes/java-jobs/badges/gpa.svg)](https://codeclimate.com/github/kaiomagalhaes/java-jobs) [![Build Status](https://semaphoreci.com/api/v1/projects/71b7b15d-18bc-44d1-b97e-b663d1bdfad8/432469/badge.svg)](https://semaphoreci.com/kaiomagalhaes/ruby-jobs)
 
 Repositório do Java Jobs [www.javajobs.me](http://www.javajobs.me/).
 
