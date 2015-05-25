@@ -4,7 +4,7 @@ module JobsHelper
     title       = CGI.escape(title)
 
     url = 'https://twitter.com/intent/tweet?'
-    url += 'hashtags=RubyJobs&'
+    url += 'hashtags=JavaJobs&'
     url += "original_referer=#{escaped_url}&"
     url += "text=Vaga%20para%20#{title}&"
     url += "w_p=tweetbutton&url=#{escaped_url}"
@@ -20,7 +20,7 @@ module JobsHelper
     url += "title=#{title}&"
     url += "url=#{escaped_url}&"
     url += "summary=Vaga%20para%20#{title}&"
-    url += 'source=RubyJobs'
+    url += 'source=JavaJobs'
 
     render partial: 'jobs/link_to_linkedin', locals: { url: url }
   end

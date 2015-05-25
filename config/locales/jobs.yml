@@ -23,14 +23,14 @@ pt-BR:
         contract_type: "Tipo de Contratação"
     placeholders:
       job:
-        title: "Desenvolvedor Ruby on Rails"
+        title: "Desenvolvedor Java"
         company: "Empresa S/A"
         location: 'Rio de Janeiro - RJ'
         email: 'contato@empresa.com'
         url: "http://www.seusite.com.br/sua_vaga"
         website: 'http://www.seusite.com.br'
-        skills: 'Necessário ter experiência com: Ruby, Ruby on Rails ou outro framework MVC.  Desejável: APIs REST, Test Driven Development, MongoDB e GIT'
-        description: 'Estamos contratando desenvolvedor Ruby/Rails, que já tenha experiência. Trabalhamos com metodologias ágeis, se tiver esta vivência também é legal =) Não precisa ser do Rio, contratamos pessoas remotas também. '
+        skills: 'Necessário ter experiência com: Java, Groovy on Grails ou outro framework MVC.  Desejável: APIs REST, Test Driven Development, MongoDB e GIT'
+        description: 'Estamos contratando desenvolvedor Java/Groovy, que já tenha experiência. Trabalhamos com metodologias ágeis, se tiver esta vivência também é legal =) Não precisa ser do Rio, contratamos pessoas remotas também. '
     include_blanks:
       user:
         age: "Rather not say"

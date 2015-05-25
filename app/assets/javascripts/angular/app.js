@@ -1,6 +1,6 @@
 /**
 *  Main Module
 *
-* This is the main module of RubyJobs angular app
+* This is the main module of JavaJobs angular app
 */
-var app = angular.module('rubyJobs', ['ngResource','infinite-scroll']);
+var app = angular.module('javaJobs', ['ngResource','infinite-scroll']);
