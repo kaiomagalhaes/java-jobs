@@ -5,6 +5,8 @@ Repositório do Java Jobs [www.javajobs.me](http://www.javajobs.me/).
 O projeto original foi criado com o intuito de mostrar ofertas de emprego para desenvolvedores Ruby.
 Vendo as dificuldades para encontrar desenvolvedores Java fiz o fork do projeto [ruby-jobs](https://github.com/ruby-jobs/ruby-jobs) e realizei as modificações necessárias.
 
+Para qualquer alteração genérica feita neste projeto será feito um pull request para o [ruby-jobs](https://github.com/ruby-jobs/ruby-jobs)
+
 Projeto sem fins lucrativos.
 
 ## Instalação
